@@ -1,0 +1,52 @@
+html {
+    background-color: #EEE;
+}
+body {
+    padding: 20px;
+}
+.text {
+    padding: 12px;
+    background-color: #EEE;
+    float:right;
+    width: 40%;
+    font-family: Helvetica;
+    font-size: 11pt;
+    margin-right: 5%;
+    margin-top: 4%;
+}
+#title {
+    padding: 12px;
+    font-family: Arial;
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+    background-color: #cccccc;
+    width: 70%;
+}
+#description {
+    width: 71.8%;
+    background-color: #cccccc;
+}
+#tedtalk {
+    float:left;
+    width: 37%;
+    background-color: #F0B4E8;
+    margin-top: 4%;
+    font-family: Helvetica;
+    font-size: 11pt;
+}
+#generate{
+    width: 5%;
+    margin-left: 2%;
+    float:left;
+}
+#clear {
+    width: 5%;
+    float: left;
+    margin-left: 0.5%;
+}
+.save{
+    width:10%;
+    margin-top: 4%;
+    margin-left: 2.2%;
+}
