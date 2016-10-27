@@ -22,7 +22,7 @@ var data = {
   "adverb": ["radically", "then", "really", "almost", "what", "why", "how"],
   "verb": ["need", "mean", "build", "see", "tinker", "turn", "twist", "start", "happen", "be", "do", "want", "express", "learn", "start", "think", "know", "like", "concentrating", "ask", "feel", "belong", "remove"],
   "people": ["Bertrand Russel", "Albert Einstein", "Marvin Minsky", "Lady Gaga", "Adele"],
-  "profession": ["philosophy", "culinary", "psichiatry", "physics"],
+  "profession": ["philosophy", "culinary", "psychiatry", "physics"],
   "title": ["parent", "teacher", "government", "school", "administration", "society"],
   "emoji": ['😀', '😬', '😁', '😂', '😃', '😄', '😅', '😆', '🌎', '🌕', '🌖', '🌗', '🌝', '🌜', '🌞', '🌙', '⭐', '🌟', '💫', '✨', '🍏', '🍎', '🍐', '🍊', '🍋', '🍌', '🍉', '🍇', '🍓', '🍈', '🍒', '🍑', '🍍', '🍅', '🚗', '🚕', '🚙', '🚌', '🚎', '⌚', '📱', '📲', '💻', '💽', '💾', '💿', '📀', '📼', '📷', '📸', '📹', '🎥', '🚓', '🚑', '🚒', '🚐', '🚚', '🚛']
 }
